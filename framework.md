@@ -57,10 +57,10 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 
 ### Traits
 
-* Schooling - low
-* Practice - low
-* Organizational - low
-* Community - low
+* Schooling - :x:
+* Practice - :x:
+* Organizational - :x:
+* Community - :x:
 
 ### Ideal job titles
 
@@ -80,238 +80,210 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 
 ------
 
-## spOc
-
 
 ### Non-Technical
 
 ### Traits
 
-* Schooling - low
-* Practice - low
-* Organizational - high
-* Community - low
+* Schooling - :x:
+* Practice - :x:
+* Organizational - :heavy_check_mark:
+* Community - :x:
 
 
 ### Ideal job titles
 
 ------
-
-## spOC
 
 
 ### Advocate
 
 ### Traits
 
-* Schooling - low
-* Practice - low
-* Organizational - low
-* Community - low
+* Schooling - :x:
+* Practice - :x:
+* Organizational - :heavy_check_mark:
+* Community - :heavy_check_mark:
 
 
 ### Ideal job titles
 
 ------
-
-## sPoc
 
 
 ### Tinkerer
 
 ### Traits
 
-* Schooling - low
-* Practice - low
-* Organizational - low
-* Community - low
+* Schooling - :x:
+* Practice - :heavy_check_mark:
+* Organizational - :x:
+* Community - :x:
 
 
 ### Ideal job titles
 
 ------
-
-## sPoC
 
 
 ### Hacker
 
 ### Traits
 
-* Schooling - low
-* Practice - low
-* Organizational - low
-* Community - low
+* Schooling - :x:
+* Practice - :heavy_check_mark:
+* Organizational - :x:
+* Community - :heavy_check_mark:
 
 
 ### Ideal job titles
 
 ------
-
-## sPOc
 
 
 ### Support
 
 ### Traits
 
-* Schooling - low
-* Practice - low
-* Organizational - low
-* Community - low
+* Schooling - :x:
+* Practice - :heavy_check_mark:
+* Organizational - :heavy_check_mark:
+* Community - :x:
 
 
 ### Ideal job titles
 
 ------
-
-## sPOC
 
 
 ### Self-Taught
 
 ### Traits
 
-* Schooling - low
-* Practice - low
-* Organizational - low
-* Community - low
+* Schooling - :x:
+* Practice - :heavy_check_mark:
+* Organizational - :heavy_check_mark:
+* Community - :heavy_check_mark:
 
 
 ### Ideal job titles
 
 ------
-
-## Spoc
 
 
 ### Academic
 
 ### Traits
 
-* Schooling - low
-* Practice - low
-* Organizational - low
-* Community - low
+* Schooling - :heavy_check_mark:
+* Practice - :x:
+* Organizational - :x:
+* Community - :x:
 
 
 ### Ideal job titles
 
 ------
-
-## SpoC
 
 
 ### Researcher
 
 ### Traits
 
-* Schooling - low
-* Practice - low
-* Organizational - low
-* Community - low
+* Schooling - :heavy_check_mark:
+* Practice - :x:
+* Organizational - :x:
+* Community - :heavy_check_mark:
 
 
 ### Ideal job titles
 
 ------
-
-## SpOc
 
 
 ### Analyst
 
 ### Traits
 
-* Schooling - low
-* Practice - low
-* Organizational - low
-* Community - low
+* Schooling - :heavy_check_mark:
+* Practice - :x:
+* Organizational - :heavy_check_mark:
+* Community - :x:
 
 
 ### Ideal job titles
 
 ------
-
-## SpOC
 
 
 ### Organizer
 
 ### Traits
 
-* Schooling - low
-* Practice - low
-* Organizational - low
-* Community - low
+* Schooling - :heavy_check_mark:
+* Practice - :x:
+* Organizational - :heavy_check_mark:
+* Community - :heavy_check_mark:
 
 
 ### Ideal job titles
 
 ------
-
-## SPoc
 
 
 ### Fledgling
 
 ### Traits
 
-* Schooling - low
-* Practice - low
-* Organizational - low
-* Community - low
+* Schooling - :heavy_check_mark:
+* Practice - :heavy_check_mark:
+* Organizational - :x:
+* Community - :x:
 
 
 ### Ideal job titles
 
 ------
-
-## SPoC
 
 
 ### Seeker
 
 ### Traits
 
-* Schooling - low
-* Practice - low
-* Organizational - low
-* Community - low
+* Schooling - :heavy_check_mark:
+* Practice - :heavy_check_mark:
+* Organizational - :x:
+* Community - :heavy_check_mark:
 
 
 ### Ideal job titles
 
 ------
-
-## SPOc
 
 
 ### Careerist
 
 ### Traits
 
-* Schooling - low
-* Practice - low
-* Organizational - low
-* Community - low
+* Schooling - :heavy_check_mark:
+* Practice - :heavy_check_mark:
+* Organizational - :heavy_check_mark:
+* Community - :x:
 
 
 ### Ideal job titles
 
 ------
 
-## SPOC
-
 
 ### Star
 
 ### Traits
 
-* Schooling - low
-* Practice - low
-* Organizational - low
-* Community - low
+* Schooling - :heavy_check_mark:
+* Practice - :heavy_check_mark:
+* Organizational - :heavy_check_mark:
+* Community - :heavy_check_mark:
 
 
 ### Ideal job titles
