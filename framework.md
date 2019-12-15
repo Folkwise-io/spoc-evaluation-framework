@@ -51,7 +51,7 @@ This indicates familiarity with and participation in the developer community.
 
 Out of the above framework come the following types:
 
-## The Outsider
+## The Outsider :flushed:
 
 Outsiders have no exposure to the tech world at all. They have never worked in a technical team, nor have they 
 
@@ -66,7 +66,7 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 
 ------
 
-### Spectator
+## Spectator :newspaper:
 
 ### Traits
 
@@ -80,8 +80,7 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 
 ------
 
-
-### Non-Technical
+##  Non-Technical :briefcase:
 
 ### Traits
 
@@ -95,8 +94,7 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 
 ------
 
-
-### Advocate
+##  Advocate :smiley:
 
 ### Traits
 
@@ -110,8 +108,7 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 
 ------
 
-
-### Tinkerer
+##  Tinkerer :wrench:
 
 ### Traits
 
@@ -125,8 +122,7 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 
 ------
 
-
-### Hacker
+##  Hacker :neckbeard:
 
 ### Traits
 
@@ -140,8 +136,7 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 
 ------
 
-
-### Support
+##  Support :telephone:
 
 ### Traits
 
@@ -155,8 +150,7 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 
 ------
 
-
-### Self-Taught
+##  Self-Taught :squirrel:
 
 ### Traits
 
@@ -170,8 +164,7 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 
 ------
 
-
-### Academic
+##  Academic :book:
 
 ### Traits
 
@@ -185,8 +178,7 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 
 ------
 
-
-### Researcher
+##  Researcher :telescope:
 
 ### Traits
 
@@ -200,8 +192,7 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 
 ------
 
-
-### Analyst
+##  Analyst :pencil:
 
 ### Traits
 
@@ -215,8 +206,7 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 
 ------
 
-
-### Organizer
+##  Organizer :bookmark_tabs:
 
 ### Traits
 
@@ -230,8 +220,7 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 
 ------
 
-
-### Fledgling
+##  Fledgling :seedling:
 
 ### Traits
 
@@ -245,8 +234,7 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 
 ------
 
-
-### Seeker
+##  Seeker :suspect:
 
 ### Traits
 
@@ -260,8 +248,7 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 
 ------
 
-
-### Careerist
+##  Careerist :office:
 
 ### Traits
 
@@ -275,8 +262,7 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 
 ------
 
-
-### Star
+##  Star :godmode:
 
 ### Traits
 
