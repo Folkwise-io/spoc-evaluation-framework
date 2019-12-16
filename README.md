@@ -23,7 +23,7 @@ There is not a single generally-accepted framework for evaluating software engin
 * PHP/Perl/Python/JavaScript/Java/etc. developers are bad developers.
 * ...and the list goes on. 
 
-In the midst of such uncertainty, it is clear to the author that a practical and memorable framework for evaluating software developers is immediately necessary. In order to help clear up the confusion, we're presenting here, in plain english, **the SPOC framework**. The SPOC framework was created by [Monarch Wadia](https://linkedin.com/in/monarchwadia), who is CEO at [Mintbean](https://mintbean.io), where his team uses it to evaluate software engineering candidates for Mintbean and its clients. The framework draws on his professional experience as a software architect and business leader.
+In the midst of such uncertainty, it is clear to the author that a practical and memorable framework for evaluating software developers is immediately necessary. In order to help clear up the confusion, we're presenting here, in plain english, **the SPOC framework**. 
 
 ------
 
@@ -102,6 +102,7 @@ In the midst of such uncertainty, it is clear to the author that a practical and
     + [Traits](#traits-15)
     + [Jobs that fit this archetype](#jobs-that-fit-this-archetype-15)
     + [Common jobs given to this archetype that actually don't fit them](#common-jobs-given-to-this-archetype-that-actually-don-t-fit-them-15)
+  * [About](#about)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -654,3 +655,7 @@ Some of the best software developers are Stars. They make excellent technical le
 ### Common jobs given to this archetype that actually don't fit them
 
 * Any non-developer roles
+
+## About
+
+The SPOC framework was created by [Monarch Wadia](https://linkedin.com/in/monarchwadia), who is CEO at [Mintbean](https://mintbean.io), where his team uses it to evaluate software engineering candidates for Mintbean and its clients. The framework draws on his professional experience as a software architect and business leader. He also finds it immeasurably amusing, and somewhat uncomfortable, to write about himself in the third person.
