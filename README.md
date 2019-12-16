@@ -9,9 +9,9 @@ Even the name for the field itself is hotly disputed. A quick search on [Wikiped
 > The existence of the mere term [software engineering] has been the base of a number of extremely shallow—and false—analogies, which just confuse the issue... Computers are such exceptional gadgets that there is good reason to assume that most analogies with other disciplines are too shallow to be of any positive value, are even so shallow that they are only confusing.
 > Edsger W. Dijkstra, 1978
 
-This state of affairs is unsuprising when you consider that the discipline itself [cannot be older than 200 years by the most generous definition](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer). The term "software engineering" itself was [coined in the 1960's](https://en.wikipedia.org/wiki/History_of_software_engineering#1945_to_1965:_The_origins) and is less than 60 years old as of the time of this writing (Dec 2019).
+This state of affairs is unsuprising when the reader considers that the discipline itself [cannot be older than 200 years by the most generous definition](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer). The term "software engineering" itself was [coined in the 1960's](https://en.wikipedia.org/wiki/History_of_software_engineering#1945_to_1965:_The_origins) and is less than 60 years old as of the time of this writing (Dec 2019).
 
-There is not a single generally-accepted framework for evaluating software engineering candidates that the author knows of. Not a lot of companies know how to evaluate developers and other technical personnel. There are several superstitions and misconceptions, which make matters worse. We won't go into the details, but here are a few such myths:
+To pile insult upon injury, there is not a single generally-accepted framework for evaluating software engineering candidates that the author knows of. Not a lot of companies know how to properly evaluate developers and other technical personnel. There are several superstitions and misconceptions, which make matters worse. We won't go into the details, but here are a few such myths:
 
 * Having more developers means faster delivery.
 * Developers are a commodity resource.
@@ -23,7 +23,7 @@ There is not a single generally-accepted framework for evaluating software engin
 * PHP/Perl/Python/JavaScript/Java/etc. developers are bad developers.
 * ...and the list goes on. 
 
-In the midst of such uncertainty, it is clear to the author that a practical and memorable framework for evaluating software developers is immediately necessary. In order to help clear up the confusion, we're presenting here, in plain english, **the SPOC framework**. 
+In the midst of such uncertainty, it is clear to the author that a practical and memorable framework for evaluating software developers is immediately necessary. In order to help clear up the confusion, we're presenting here, in plain english, **the SPOC framework**, which we at [Mintbean](https://mintbean.io) use on a daily basis to evaluate software engineering candidates. 
 
 ------
 
@@ -107,6 +107,28 @@ In the midst of such uncertainty, it is clear to the author that a practical and
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ------
+
+# How to use this framework
+
+The SPOC framework is meant to be used to build a recruiting process. However, it is also easy, intuitive, and memorable. Once you're familiar with it, you can even use it as a kind of mental shortcut to quickly judge whether you should hire someone for a software development role.
+
+Over time, patterns will emerge, and you will develop an intuitive sense for evaluating software engineering candidates based on their resume, the interview process, their personality type, their behavioral patterns, and so on.
+
+Ideally, you're evaluating candidates for a very specific software engineering position inside a company that you understand very well. If this is the case, then each evaluation criteria has specific modifications that must be made to adjust for this very relevant information.
+
+The framework can be used at any step of the recruiting process. Whether you're writing a job description, filtering resumes, interviewing candidates or conducting technical tests, you will find that the SPOC framework informs your decisions and is a useful tool in your toolbelt.
+
+## 1. Understand the framework
+
+The first thing you should do is make yourself familiar with the SPOC framework. It is relatively easy to understand and is not technical in nature. It can even be fun to learn.
+
+Understand the 4 traits. Familiarize yourself with the resulting 16 archetypes. As a fun test, evaluate yourself on the framework and "guess" where you might fit.
+
+## 2. Understand the job opening
+
+## 3. Evaluate the job opening
+
+## 4. Evaluate each candidate
 
 # The traits
 
@@ -631,7 +653,7 @@ Careerists make excellent intermediate developers, QA Engineering professionals 
 
 Stars are enthusiastic software developers who eat, drink, sleep and dream software development. These are career developers who have studied software development professionally, have experience as developers in the software development industry, and often actively partake in the dev community they are a part of.
 
-Some of the best software developers are Stars. They make excellent technical leaders and are an inspiration to younger developers who have the privilege of working with them. They fit well into technical organizations and are capable of building projects from scratch with strong technical foundations. However, they might not fit well into organizations that are primarily non-technical or that do not have a strong software development culture.
+Some of the best software developers are Stars. They make excellent technical leaders and are frequently an inspiration to younger developers who have the privilege of working with them. They fit well into technical organizations and are capable of building projects from scratch with strong technical foundations. However, they might not fit well into organizations that are primarily non-technical or that do not have a strong software development culture.
 
 ### Traits
 
@@ -655,6 +677,8 @@ Some of the best software developers are Stars. They make excellent technical le
 ### Common jobs given to this archetype that actually don't fit them
 
 * Any non-developer roles
+
+------
 
 ## About
 
