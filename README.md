@@ -125,7 +125,7 @@ This indicates familiarity with and participation in the developer community.
 
 # The Archetypes
 
-## Adventurer :boat:
+## The Adventurer :boat:
 
 Adventurers are brand new entrants in the tech world. Often, they're explorers, and are curious about the tech world and the opportunities that lay therein. They have no exposure to the software industry at all. Many of them are looking for their first opportunities in technology, and some might be applying for a job that is similar to ones they've had in the past.
 
@@ -152,7 +152,7 @@ Adventurers are wildcards. You never know what you're going to get with them -- 
 
 ------
 
-## Spectator :newspaper:
+## The Spectator :newspaper:
 
 Spectators are deeply interested in the world of tech, but have never worked in it. This person could be an Adventurer who has been curious about the technical world for a while, but has never worked in it.
 
@@ -181,7 +181,7 @@ Spectators have spent significant amounts of time reading about and interacting 
 
 ------
 
-##  Nontechnical :briefcase:
+## The Nontechnical :briefcase:
 
 The Nontechnical has worked in a technical company, or closely with a technical department, but not in a technical capacity. These people are familiar with the rhythm and flow of a technical department. They are often liaisons between engineering departments and business departments, and bring a lot of specialized experience with them.
 
@@ -208,7 +208,7 @@ The Nontechnical has worked in a technical company, or closely with a technical 
 
 ------
 
-##  Facilitator :smiley:
+## The Facilitator :smiley:
 
 Facilitators are people who are very familiar with the developer community, but are not developers themselves, nor do they have technical schooling. They understand software development and the engineering mindset and typically work well with developers.
 
@@ -238,7 +238,7 @@ Facilitators fit well into organizations and departments that work closely with 
 
 ------
 
-##  Tinkerer :wrench:
+## The Tinkerer :wrench:
 
 Tinkerers are pure technicians. They've focused on making machines do their bidding. They take pride in their technical skill and may be hobbyist programmers in their off-hours. 
 
@@ -269,7 +269,7 @@ Tinkerers often can work wonders with Excel macros, and often write small script
 
 ------
 
-##  Hacker :neckbeard:
+## The Hacker :neckbeard:
 
 Hackers are Tinkerers who have invested more time in understanding the culture surrounding the language of their choice. These are self-taught developers who truly enjoy software development, and may be self-studying their way into a software development role.
 
@@ -298,7 +298,7 @@ Hackers are beyond seeing code as just a tool. They're enthusiasts, and understa
 
 ------
 
-## Savvy :bulb:
+## The Savvy :bulb:
 
 Savvies bring experience in writing scripts and programs to the departments they work in. Very often, savvies work in quantitative professions such as accounting or finance, and have picked up coding as yet another tool in their number-crunching toolbelt.
 
@@ -325,7 +325,7 @@ Savvies have the business knowledge to build software that solves real problems,
 
 ------
 
-##  Self-Taught :squirrel:
+## The Self-Taught :squirrel:
 
 These gritty individuals have dedicated their professional lives to code. They've successfully broken into the software development profession, and rightfully see themselves as full-fledged software developers. They may have previous experience as non-technical professionals, which they've left behind, but that experience is valuable and still informs their work on a near-daily basis.
 
@@ -359,7 +359,7 @@ The Self-Taught archetype is one of the best fits for a software development rol
 
 ------
 
-##  Academic :book:
+## The Academic :book:
 
 Academics are those who have studied computer science without any significant coding experience or experience working in the industry. These individuals may have significant prior work experience outside software development. Many recent graduates fit this archetype, as do individuals who got their degree or diploma in software engineering or computer science but then moved into a non-technical profession.
 
@@ -390,7 +390,7 @@ Academics understand computer science and software engineering to a certain degr
 
 ------
 
-##  Researcher :telescope:
+## The Researcher :telescope:
 
 Similar to the Academic, the Researcher has spent significant amounts of time studying the software development industry. In addition to book knowledge, the Researcher understands the state of the industry from an outsider's perspective. They are frequently able to come up with deep insights about the industry.
 
@@ -424,7 +424,7 @@ Researchers are often computer science or engineering students who are passionat
 
 ------
 
-##  Organizer :bookmark_tabs:
+## The Organizer :bookmark_tabs:
 
 Organizers are people who help software departments and companies run efficiently and smoothly. Without any special inclination towards coding, these tend to be industry specialists who have studied software development and made it their home.
 
@@ -458,7 +458,7 @@ Very often, the academic background of an Organizer is irrelevant. They have und
 
 ------
 
-##  Natives :pencil:
+## The Natives :pencil:
 
 Natives are at home in the world of software development. They have studied a technical field, possess relevant industry experience, and have researched the industry to a point where they understand trends in technology and understand long-term trends that may affect the business.
 
@@ -491,7 +491,7 @@ Natives are non-technical, but are well-suited to leadership positions in softwa
 
 ------
 
-##  Fledgling :seedling:
+## The Fledgling :seedling:
 
 Fledglings have studied software development and have built several projects of varying sizes, maybe as part of their coursework. Many software development bootcamp graduates fall into this category. They may be building their portfolio of projects and working towards their first software development jobs.
 
@@ -522,7 +522,7 @@ Many fledglings eventually land their first software development job, although m
 
 ------
 
-##  Seeker :eyeglasses:
+## The Seeker :eyeglasses:
 
 Seekers are serious software development students who have dedicated large amounts of their personal and professional time to learning as much as possible about software development. They are actively looking for their first software development jobs.Many seekers may accept non-technical roles, but nothing would make them happier than landing a software development role.
 
@@ -552,7 +552,7 @@ Seekers sometimes come from other industries, especially via bootcamps and short
 
 ------
 
-##  Careerist :office:
+## The Careerist :office:
 
 The vast majority of software developers are Careerists. They understand the various tools of their specific industry or language, and might even know many popular libraries in their ecosystem, but they have not put in the effort to learn the culture and community surrounding those tools (although they might look up tutorials and examples on a near-daily basis).
 
@@ -585,7 +585,7 @@ Careerists make excellent intermediate developers, QA Engineering professionals 
 
 ------
 
-##  Star :star:
+## The Star :star:
 
 Stars are enthusiastic software developers who eat, drink, sleep and dream software development. These are career developers who have studied software development professionally, have experience as developers in the software development industry, and often actively partake in the dev community they are a part of.
 
