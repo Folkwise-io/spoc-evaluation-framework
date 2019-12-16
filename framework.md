@@ -51,7 +51,26 @@ This indicates familiarity with and participation in the developer community.
 
 Out of the above framework come the following archetypes:
 
-## The Adventurer :boat:
+* [Adventurer :boat:](#adventurer-boat)
+* [Spectator :newspaper:](#spectator-newspaper)
+* [Nontechnical :briefcase:](#Nontechnical-briefcase)
+* [Facilitator :smiley:](#Facilitator-smiley)
+* [Tinkerer :wrench:](#Tinkerer-wrench)
+* [Hacker :neckbeard:](#Hacker-neckbeard)
+* [Savvy :bulb:](#Savvy-bulb)
+* [Self-Taught :squirrel:](#Self-Taught-squirrel)
+* [Academic :book:](#Academic-book)
+* [Researcher :telescope:](#Researcher-telescope)
+* [Organizer :bookmark_tabs:](#Organizer-bookmark_tabs)
+* [Natives :pencil:](#Natives-pencil)
+* [Fledgling :seedling:](#Fledgling-seedling)
+* [Seeker :eyeglasses:](#Seeker-eyeglasses)
+* [Careerist :office:](#Careerist-office)
+* [Star :star:](#Star-star)
+
+Here they are in detail:
+
+## Adventurer :boat:
 
 Adventurers are brand new entrants in the tech world. Often, they're explorers, and are curious about the tech world and the opportunities that lay therein. They have no exposure to the software industry at all. Many of them are looking for their first opportunities in technology, and some might be applying for a job that is similar to ones they've had in the past.
 
