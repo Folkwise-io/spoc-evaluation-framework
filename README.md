@@ -32,6 +32,11 @@ In the midst of such uncertainty, it is clear to the author that a practical and
 - [The SPOC archetype framework for evaluating software developers (and other IT professionals)](#the-spoc-archetype-framework-for-evaluating-software-developers--and-other-it-professionals-)
   * [Introduction](#introduction)
   * [Index](#index)
+- [How to use this framework](#how-to-use-this-framework)
+  * [1. Understand the framework](#1-understand-the-framework)
+  * [2. Understand the job opening](#2-understand-the-job-opening)
+  * [3. Evaluate the job opening](#3-evaluate-the-job-opening)
+  * [4. Evaluate the candidate](#4-evaluate-the-candidate)
 - [The traits](#the-traits)
   * [S - Schooling](#s---schooling)
   * [P - Practice](#p---practice)
@@ -106,6 +111,7 @@ In the midst of such uncertainty, it is clear to the author that a practical and
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
+
 ------
 
 # How to use this framework
@@ -124,11 +130,27 @@ The first thing you should do is make yourself familiar with the SPOC framework.
 
 Understand the 4 traits. Familiarize yourself with the resulting 16 archetypes. As a fun test, evaluate yourself on the framework and "guess" where you might fit.
 
-## 2. Understand the job opening
+TBD
 
-## 3. Evaluate the job opening
+## 2. Understand the company and the job description
 
-## 4. Evaluate each candidate
+TBD
+
+## 3. Identify the ideal candidate archetype
+
+TBD
+
+## 4. Evaluate the candidates
+
+TBD
+
+## 5. Hire a candidate
+
+TBD
+
+## 6. Follow through
+
+TBD
 
 # The traits
 
@@ -138,20 +160,43 @@ This trait measures formal education in computer science & software engineering.
 
 Any formal instruction counts toward this trait, including high school software development classes, diploma courses, professional certification, development bootcamps, coursework completed, and completed university degrees.
 
-## P - Practice
+TBD
+
+### How to evaluate this trait
+
+TBD
+
+## P - Practice programming
 
 Practice is the time and effort spent building projects using code, whether in the workplace, at school, or as a hobbyist.
 
+TBD
 
-## O - Organizational
+### How to evaluate this trait
+
+TBD
+
+## O - Organizational experience
 
 This is a measure of experience the candidate has in a technical workplace environment. 
 
 This is not necessarily workplace experience as a developer. This could be a non-technical person, such as a manual QA specialist or a business analyst, working closely with an engineering team.
 
+TBD
+
+### How to evaluate this trait
+
+TBD
+
 ## C - Community
 
 This indicates familiarity with and participation in the developer community.
+
+TBD
+
+### How to evaluate this trait
+
+TBD
 
 ------
 
