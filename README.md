@@ -1,10 +1,37 @@
 # The SPOC archetype framework for evaluating software developers (and other IT professionals)
 
+## Introduction
+
+Evaluating software engineers for a job opening is a daunting task. It's difficult to think of a field more [varied](https://en.wikipedia.org/wiki/List_of_programming_languages), [diverse](https://en.wikipedia.org/wiki/List_of_operating_systems), [esoteric](https://en.wikipedia.org/wiki/Esoteric_programming_language), [technical](https://www.gnu.org/software/libc/manual/), [quirky](https://www.reddit.com/r/javascript/comments/2scikz/eli5_why_is_this_true_01_02_030000000000000004/) and [misunderstood](https://hackernoon.com/50-common-misconceptions-in-the-world-of-software-development-7144566c54f9) as software engineering. 
+
+Even the name for the field itself is hotly disputed. A quick search on [Wikipedia](https://en.wikipedia.org/wiki/Software_engineer#Suitability_of_the_term) comes up with this quote from computing legend Edsger Djikstra:
+
+> The existence of the mere term [software engineering] has been the base of a number of extremely shallow—and false—analogies, which just confuse the issue... Computers are such exceptional gadgets that there is good reason to assume that most analogies with other disciplines are too shallow to be of any positive value, are even so shallow that they are only confusing.
+> Edsger W. Dijkstra, 1978
+
+This state of affairs is unsuprising when you consider that the discipline itself [cannot be older than 200 years by the most generous definition](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer). The term "software engineering" itself was [coined in the 1960's](https://en.wikipedia.org/wiki/History_of_software_engineering#1945_to_1965:_The_origins) and is less than 60 years old as of the time of this writing (Dec 2019).
+
+There is not a single generally-accepted framework for evaluating software engineering candidates that the author knows of. Not a lot of companies know how to evaluate developers and other technical personnel. There are several superstitions and misconceptions, which make matters worse. We won't go into the details, but here are a few such myths:
+
+* Having more developers means faster delivery.
+* Developers are a commodity resource.
+* Education matters a lot.
+* Experience matters a lot.
+* All developers are expensive.
+* Expensive developers are good developers.
+* Consultants are always a bad idea.
+* PHP/Perl/Python/JavaScript/Java/etc. developers are bad developers.
+* ...and the list goes on. 
+
+In the midst of such uncertainty, it is clear to the author that a practical and memorable framework for evaluating software developers is immediately necessary. In order to help clear up the confusion, we're presenting here, in plain english, **the SPOC framework**. The SPOC framework was created by [Monarch Wadia](https://linkedin.com/in/monarchwadia), who is CEO at [Mintbean](https://mintbean.io), where his team uses it to evaluate software engineering candidates for Mintbean and its clients. The framework draws on his professional experience as a software architect and business leader.
+
+------
+
 ## Index
 
 - [The SPOC archetype framework for evaluating software developers (and other IT professionals)](#the-spoc-archetype-framework-for-evaluating-software-developers--and-other-it-professionals-)
-  * [Index](#index)
   * [Introduction](#introduction)
+  * [Index](#index)
 - [The traits](#the-traits)
   * [S - Schooling](#s---schooling)
   * [P - Practice](#p---practice)
@@ -77,26 +104,6 @@
     + [Common jobs given to this archetype that actually don't fit them](#common-jobs-given-to-this-archetype-that-actually-don-t-fit-them-15)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-## Introduction
-
-Not a lot of companies know how to evaluate developers and other technical personnel. There are several superstitions and misconceptions, which make matters worse. We won't go into the details, but here are a few such myths:
-
-* Developers who type fast get more work done.
-* Hiring more developers gets the project done faster.
-* Developers are a commodity resource.
-* Education matters a lot.
-* Experience matters a lot.
-* All developers are expensive.
-* Expensive developers are good developers.
-* Consultants are a bad idea.
-* PHP/Perl/Python/JavaScript/Java/etc. developers are bad developers.
-* Developers who can do functional programming are great developers.
-* ...and the list goes on. 
-
-In order to clear up the confusion, we're presenting here, in plain english, **the SPOC framework**, a system that works and is tried-and-tested. We use this system at [Mintbean](https://mintbean.io) to hire personnel for our clients and for ourselves. 
-
-The SPOC framework was created by [Monarch Wadia](https://linkedin.com/in/monarchwadia) and draws on his professional experience as a software architect and business leader.
 
 ------
 
