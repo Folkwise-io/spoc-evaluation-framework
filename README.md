@@ -1,6 +1,9 @@
 # The SPOC archetype framework for evaluating software developers (and other IT professionals)
 
+## Index
+
 - [The SPOC archetype framework for evaluating software developers (and other IT professionals)](#the-spoc-archetype-framework-for-evaluating-software-developers--and-other-it-professionals-)
+  * [Index](#index)
   * [Introduction](#introduction)
 - [The traits](#the-traits)
   * [S - Schooling](#s---schooling)
@@ -8,73 +11,72 @@
   * [O - Organizational](#o---organizational)
   * [C - Community](#c---community)
 - [The Archetypes](#the-archetypes)
-  * [Adventurer :boat:](#adventurer--boat-)
+  * [The Adventurer](#the-adventurer)
     + [Traits](#traits)
     + [Jobs that fit this archetype](#jobs-that-fit-this-archetype)
     + [Common jobs given to this archetype that actually don't fit them](#common-jobs-given-to-this-archetype-that-actually-don-t-fit-them)
-  * [Spectator :newspaper:](#spectator--newspaper-)
+  * [The Spectator](#the-spectator)
     + [Traits](#traits-1)
     + [Jobs that fit this archetype](#jobs-that-fit-this-archetype-1)
     + [Common jobs given to this archetype that actually don't fit them](#common-jobs-given-to-this-archetype-that-actually-don-t-fit-them-1)
-  * [Nontechnical :briefcase:](#nontechnical--briefcase-)
+  * [The Nontechnical](#the-nontechnical)
     + [Traits](#traits-2)
     + [Jobs that fit this archetype](#jobs-that-fit-this-archetype-2)
     + [Common jobs given to this archetype that actually don't fit them](#common-jobs-given-to-this-archetype-that-actually-don-t-fit-them-2)
-  * [Facilitator :smiley:](#facilitator--smiley-)
+  * [The Facilitator](#the-facilitator)
     + [Traits](#traits-3)
     + [Jobs that fit this archetype](#jobs-that-fit-this-archetype-3)
     + [Common jobs given to this archetype that actually don't fit them](#common-jobs-given-to-this-archetype-that-actually-don-t-fit-them-3)
-  * [Tinkerer :wrench:](#tinkerer--wrench-)
+  * [The Tinkerer](#the-tinkerer)
     + [Traits](#traits-4)
     + [Jobs that fit this archetype](#jobs-that-fit-this-archetype-4)
     + [Common jobs given to this archetype that actually don't fit them](#common-jobs-given-to-this-archetype-that-actually-don-t-fit-them-4)
-  * [Hacker :neckbeard:](#hacker--neckbeard-)
+  * [The Hacker](#the-hacker)
     + [Traits](#traits-5)
     + [Jobs that fit this archetype](#jobs-that-fit-this-archetype-5)
     + [Common jobs given to this archetype that actually don't fit them](#common-jobs-given-to-this-archetype-that-actually-don-t-fit-them-5)
-  * [Savvy :bulb:](#savvy--bulb-)
+  * [The Savvy](#the-savvy)
     + [Traits](#traits-6)
     + [Jobs that fit this archetype](#jobs-that-fit-this-archetype-6)
     + [Common jobs given to this archetype that actually don't fit them](#common-jobs-given-to-this-archetype-that-actually-don-t-fit-them-6)
-  * [Self-Taught :squirrel:](#self-taught--squirrel-)
+  * [The Self-Taught](#the-self-taught)
     + [Traits](#traits-7)
     + [Jobs that fit this archetype](#jobs-that-fit-this-archetype-7)
     + [Common jobs given to this archetype that actually don't fit them](#common-jobs-given-to-this-archetype-that-actually-don-t-fit-them-7)
-  * [Academic :book:](#academic--book-)
+  * [The Academic](#the-academic)
     + [Traits](#traits-8)
     + [Jobs that fit this archetype](#jobs-that-fit-this-archetype-8)
     + [Common jobs given to this archetype that actually don't fit them](#common-jobs-given-to-this-archetype-that-actually-don-t-fit-them-8)
-  * [Researcher :telescope:](#researcher--telescope-)
+  * [The Researcher](#the-researcher)
     + [Traits](#traits-9)
     + [Jobs that fit this archetype](#jobs-that-fit-this-archetype-9)
     + [Common jobs given to this archetype that actually don't fit them](#common-jobs-given-to-this-archetype-that-actually-don-t-fit-them-9)
-  * [Organizer :bookmark_tabs:](#organizer--bookmark-tabs-)
+  * [The Organizer](#the-organizer)
     + [Traits](#traits-10)
     + [Jobs that fit this archetype](#jobs-that-fit-this-archetype-10)
     + [Common jobs given to this archetype that actually don't fit them](#common-jobs-given-to-this-archetype-that-actually-don-t-fit-them-10)
-  * [Natives :pencil:](#natives--pencil-)
+  * [The Natives](#the-natives)
     + [Traits](#traits-11)
     + [Jobs that fit this archetype](#jobs-that-fit-this-archetype-11)
     + [Common jobs given to this archetype that actually don't fit them](#common-jobs-given-to-this-archetype-that-actually-don-t-fit-them-11)
-  * [Fledgling :seedling:](#fledgling--seedling-)
+  * [The Fledgling](#the-fledgling)
     + [Traits](#traits-12)
     + [Jobs that fit this archetype](#jobs-that-fit-this-archetype-12)
     + [Common jobs given to this archetype that actually don't fit them](#common-jobs-given-to-this-archetype-that-actually-don-t-fit-them-12)
-  * [Seeker :eyeglasses:](#seeker--eyeglasses-)
+  * [The Seeker](#the-seeker)
     + [Traits](#traits-13)
     + [Jobs that fit this archetype](#jobs-that-fit-this-archetype-13)
     + [Common jobs given to this archetype that actually don't fit them](#common-jobs-given-to-this-archetype-that-actually-don-t-fit-them-13)
-  * [Careerist :office:](#careerist--office-)
+  * [The Careerist](#the-careerist)
     + [Traits](#traits-14)
     + [Jobs that fit this archetype](#jobs-that-fit-this-archetype-14)
     + [Common jobs given to this archetype that actually don't fit them](#common-jobs-given-to-this-archetype-that-actually-don-t-fit-them-14)
-  * [Star :star:](#star--star-)
+  * [The Star](#the-star)
     + [Traits](#traits-15)
     + [Jobs that fit this archetype](#jobs-that-fit-this-archetype-15)
     + [Common jobs given to this archetype that actually don't fit them](#common-jobs-given-to-this-archetype-that-actually-don-t-fit-them-15)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 ## Introduction
 
@@ -125,7 +127,9 @@ This indicates familiarity with and participation in the developer community.
 
 # The Archetypes
 
-## The Adventurer :boat:
+## The Adventurer
+
+:boat:
 
 Adventurers are brand new entrants in the tech world. Often, they're explorers, and are curious about the tech world and the opportunities that lay therein. They have no exposure to the software industry at all. Many of them are looking for their first opportunities in technology, and some might be applying for a job that is similar to ones they've had in the past.
 
@@ -152,7 +156,9 @@ Adventurers are wildcards. You never know what you're going to get with them -- 
 
 ------
 
-## The Spectator :newspaper:
+## The Spectator
+
+:newspaper:
 
 Spectators are deeply interested in the world of tech, but have never worked in it. This person could be an Adventurer who has been curious about the technical world for a while, but has never worked in it.
 
@@ -181,7 +187,9 @@ Spectators have spent significant amounts of time reading about and interacting 
 
 ------
 
-## The Nontechnical :briefcase:
+## The Nontechnical
+
+:briefcase:
 
 The Nontechnical has worked in a technical company, or closely with a technical department, but not in a technical capacity. These people are familiar with the rhythm and flow of a technical department. They are often liaisons between engineering departments and business departments, and bring a lot of specialized experience with them.
 
@@ -208,7 +216,9 @@ The Nontechnical has worked in a technical company, or closely with a technical 
 
 ------
 
-## The Facilitator :smiley:
+## The Facilitator
+
+:smiley:
 
 Facilitators are people who are very familiar with the developer community, but are not developers themselves, nor do they have technical schooling. They understand software development and the engineering mindset and typically work well with developers.
 
@@ -238,7 +248,9 @@ Facilitators fit well into organizations and departments that work closely with 
 
 ------
 
-## The Tinkerer :wrench:
+## The Tinkerer
+
+:wrench:
 
 Tinkerers are pure technicians. They've focused on making machines do their bidding. They take pride in their technical skill and may be hobbyist programmers in their off-hours. 
 
@@ -269,7 +281,9 @@ Tinkerers often can work wonders with Excel macros, and often write small script
 
 ------
 
-## The Hacker :neckbeard:
+## The Hacker
+
+:neckbeard:
 
 Hackers are Tinkerers who have invested more time in understanding the culture surrounding the language of their choice. These are self-taught developers who truly enjoy software development, and may be self-studying their way into a software development role.
 
@@ -298,7 +312,9 @@ Hackers are beyond seeing code as just a tool. They're enthusiasts, and understa
 
 ------
 
-## The Savvy :bulb:
+## The Savvy
+
+:bulb:
 
 Savvies bring experience in writing scripts and programs to the departments they work in. Very often, savvies work in quantitative professions such as accounting or finance, and have picked up coding as yet another tool in their number-crunching toolbelt.
 
@@ -325,7 +341,9 @@ Savvies have the business knowledge to build software that solves real problems,
 
 ------
 
-## The Self-Taught :squirrel:
+## The Self-Taught
+
+:squirrel:
 
 These gritty individuals have dedicated their professional lives to code. They've successfully broken into the software development profession, and rightfully see themselves as full-fledged software developers. They may have previous experience as non-technical professionals, which they've left behind, but that experience is valuable and still informs their work on a near-daily basis.
 
@@ -359,7 +377,9 @@ The Self-Taught archetype is one of the best fits for a software development rol
 
 ------
 
-## The Academic :book:
+## The Academic
+
+:book:
 
 Academics are those who have studied computer science without any significant coding experience or experience working in the industry. These individuals may have significant prior work experience outside software development. Many recent graduates fit this archetype, as do individuals who got their degree or diploma in software engineering or computer science but then moved into a non-technical profession.
 
@@ -390,7 +410,9 @@ Academics understand computer science and software engineering to a certain degr
 
 ------
 
-## The Researcher :telescope:
+## The Researcher
+
+:telescope:
 
 Similar to the Academic, the Researcher has spent significant amounts of time studying the software development industry. In addition to book knowledge, the Researcher understands the state of the industry from an outsider's perspective. They are frequently able to come up with deep insights about the industry.
 
@@ -424,7 +446,9 @@ Researchers are often computer science or engineering students who are passionat
 
 ------
 
-## The Organizer :bookmark_tabs:
+## The Organizer
+
+:bookmark_tabs:
 
 Organizers are people who help software departments and companies run efficiently and smoothly. Without any special inclination towards coding, these tend to be industry specialists who have studied software development and made it their home.
 
@@ -458,7 +482,9 @@ Very often, the academic background of an Organizer is irrelevant. They have und
 
 ------
 
-## The Natives :pencil:
+## The Natives
+
+:pencil:
 
 Natives are at home in the world of software development. They have studied a technical field, possess relevant industry experience, and have researched the industry to a point where they understand trends in technology and understand long-term trends that may affect the business.
 
@@ -491,7 +517,9 @@ Natives are non-technical, but are well-suited to leadership positions in softwa
 
 ------
 
-## The Fledgling :seedling:
+## The Fledgling
+
+:seedling:
 
 Fledglings have studied software development and have built several projects of varying sizes, maybe as part of their coursework. Many software development bootcamp graduates fall into this category. They may be building their portfolio of projects and working towards their first software development jobs.
 
@@ -522,7 +550,9 @@ Many fledglings eventually land their first software development job, although m
 
 ------
 
-## The Seeker :eyeglasses:
+## The Seeker
+
+:eyeglasses:
 
 Seekers are serious software development students who have dedicated large amounts of their personal and professional time to learning as much as possible about software development. They are actively looking for their first software development jobs.Many seekers may accept non-technical roles, but nothing would make them happier than landing a software development role.
 
@@ -552,7 +582,9 @@ Seekers sometimes come from other industries, especially via bootcamps and short
 
 ------
 
-## The Careerist :office:
+## The Careerist
+
+:office:
 
 The vast majority of software developers are Careerists. They understand the various tools of their specific industry or language, and might even know many popular libraries in their ecosystem, but they have not put in the effort to learn the culture and community surrounding those tools (although they might look up tutorials and examples on a near-daily basis).
 
@@ -585,7 +617,9 @@ Careerists make excellent intermediate developers, QA Engineering professionals 
 
 ------
 
-## The Star :star:
+## The Star
+
+:star:
 
 Stars are enthusiastic software developers who eat, drink, sleep and dream software development. These are career developers who have studied software development professionally, have experience as developers in the software development industry, and often actively partake in the dev community they are a part of.
 
