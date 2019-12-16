@@ -1,4 +1,4 @@
-# The SPOC framework of developer competency
+# The SPOC archetype framework for evaluating software developers (and other IT professionals)
 
 ## Introduction
 
@@ -47,13 +47,15 @@ This indicates familiarity with and participation in the developer community.
 
 ------
 
-# The types
+# The Archetypes
 
-Out of the above framework come the following types:
+Out of the above framework come the following archetypes:
 
-## The Outsider :flushed:
+## The Adventurer :boat:
 
-Outsiders have no exposure to the tech world at all. They have never worked in a technical team, nor have they 
+Adventurers are brand new entrants in the tech world. Often, they're explorers, and are curious about the tech world and the opportunities that lay therein. They have no exposure to the software industry at all. Many of them are looking for their first opportunities in technology, and some might be applying for a job that is similar to ones they've had in the past.
+
+Adventurers are wildcards. You never know what you're going to get with them -- which is simultaneously their biggest strength and their biggest weakness. They can bring unique strengths and synergies. Expect the unexpected with these brave souls.
 
 ### Traits
 
@@ -62,12 +64,26 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 * Organizational - :x:
 * Community - :x:
 
-### Ideal job titles
+### Jobs that fit this archetype
+
+* Manual QA
+* Roles that match their existing skillset
+* Generalist roles
+
+### Common jobs given to this archetype that actually don't fit them
+
+* Anything having to do with code
+* Anything having to do with understanding developers
+* Anything having to do with understanding the industry
 
 ------
 
 ## Spectator :newspaper:
 
+Spectators are deeply interested in the world of tech, but have never worked in it. This person could be an Adventurer who has been curious about the technical world for a while, but has never worked in it.
+
+Spectators have spent significant amounts of time reading about and interacting with the world of software development. They can work in fields that interact with the engineering community in some way or another.
+
 ### Traits
 
 * Schooling - :x:
@@ -75,12 +91,25 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 * Organizational - :x:
 * Community - :heavy_check_mark:
 
+### Jobs that fit this archetype
 
-### Ideal job titles
+* Manual QA
+* Roles that match their existing skillset
+* Generalist roles
+* Technical recruiter
+* Technical writer
+* Marketing specialist (targeting developers)
+
+### Common jobs given to this archetype that actually don't fit them
+
+* Anything having to do with code
+* Anything having to do with understanding developers
 
 ------
 
-##  Non-Technical :briefcase:
+##  Nontechnical :briefcase:
+
+The Nontechnical has worked in a technical company, or closely with a technical department, but not in a technical capacity. These people are familiar with the rhythm and flow of a technical department. They are often liaisons between engineering departments and business departments, and bring a lot of specialized experience with them.
 
 ### Traits
 
@@ -89,12 +118,27 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 * Organizational - :heavy_check_mark:
 * Community - :x:
 
+### Jobs that fit this archetype
 
-### Ideal job titles
+* Manual QA
+* Roles that match their existing skillset
+* Business analyst (non-technical)
+* Project manager
+* Product manager
+
+### Common jobs given to this archetype that actually don't fit them
+
+* Dev manager
+* Team lead
+* Scrummaster
 
 ------
 
-##  Advocate :smiley:
+##  Facilitator :smiley:
+
+Facilitators are people who are very familiar with the developer community, but are not developers themselves, nor do they have technical schooling. They understand software development and the engineering mindset and typically work well with developers.
+
+Facilitators fit well into organizations and departments that work closely with the engineering community. The best role for facilitators is one centered around understanding, supporting and nurturing the other archetypes. Facilitators deeply understand both business folk and developers, and can act as translators between these two departments. 
 
 ### Traits
 
@@ -104,12 +148,28 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 * Community - :heavy_check_mark:
 
 
-### Ideal job titles
+### Jobs that fit this archetype
+
+* Business analyst
+* Technical recruiter
+* Technical community manager
+* Marketing specialist (targeting developers)
+* Sales & business development
+
+### Common jobs given to this archetype that actually don't fit them
+
+* Dev manager
+* Team lead
+* Scrum master
 
 ------
 
 ##  Tinkerer :wrench:
 
+Tinkerers are pure technicians. They've focused on making machines do their bidding. They take pride in their technical skill and may be hobbyist programmers in their off-hours. 
+
+Tinkerers often can work wonders with Excel macros, and often write small scripts that make their coworkers' jobs a bit easier. However, they haven't (yet) invested the time in learning best practices or getting to know the culture and community surrounding the language they know best.
+
 ### Traits
 
 * Schooling - :x:
@@ -118,12 +178,29 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 * Community - :x:
 
 
-### Ideal job titles
+### Jobs that fit this archetype
+
+* Tech support
+* Junior business analyst
+* Manual QA
+* QA Automation Engineer
+* Roles that match their existing skillset
+
+### Common jobs given to this archetype that actually don't fit them
+
+* Junior software developer
+* Product manager
+* Technical business analyst
+* Scrummaster
 
 ------
 
 ##  Hacker :neckbeard:
 
+Hackers are Tinkerers who have invested more time in understanding the culture surrounding the language of their choice. These are self-taught developers who truly enjoy software development, and may be self-studying their way into a software development role.
+
+Hackers are beyond seeing code as just a tool. They're enthusiasts, and understand the aesthetic beauty of software development. They could be idealists at heart, and might subscribe to open-source philosophy. Given mentorship and experience in a mature software development team, these people have the potential to become some of the best software developers you've ever seen.
+
 ### Traits
 
 * Schooling - :x:
@@ -132,11 +209,26 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 * Community - :heavy_check_mark:
 
 
-### Ideal job titles
+### Jobs that fit this archetype
+
+* Junior software developer
+* QA Automation Engineer
+
+### Common jobs given to this archetype that actually don't fit them
+
+* Manual QA
+* Intermediate software developer
+* Senior software developer
+* Business analyst
+* Technical busines analyst
 
 ------
 
-##  Support :telephone:
+## Savvy :bulb:
+
+Savvies bring experience in writing scripts and programs to the departments they work in. Very often, savvies work in quantitative professions such as accounting or finance, and have picked up coding as yet another tool in their number-crunching toolbelt.
+
+Savvies have the business knowledge to build software that solves real problems, but have gaps in theoretical and practical knowledge that ultimately put them squarely in the realm of business and NOT technology.
 
 ### Traits
 
@@ -145,12 +237,25 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 * Organizational - :heavy_check_mark:
 * Community - :x:
 
+### Jobs that fit this archetype
 
-### Ideal job titles
+* Business analyst
+* Technical business analyst
+* Roles that match their existing skillset
+
+### Common jobs given to this archetype that actually don't fit them
+
+* Junior software developer
+* QA Automation Engineer
+* Manual QA
 
 ------
 
 ##  Self-Taught :squirrel:
+
+These gritty individuals have dedicated their professional lives to code. They've successfully broken into the software development profession, and rightfully see themselves as full-fledged software developers. They may have previous experience as non-technical professionals, which they've left behind, but that experience is valuable and still informs their work on a near-daily basis.
+
+The Self-Taught archetype is one of the best fits for a software development role. What they don't know theoretically, they make up for with passion for their work, dedication to their craft, and a knowledge of their tools and their community.
 
 ### Traits
 
@@ -160,11 +265,28 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 * Community - :heavy_check_mark:
 
 
-### Ideal job titles
+### Jobs that fit this archetype
+
+* Junior Software Developer
+* Intermediate Software Developer
+* Senior Software Developer
+* Team Lead
+* Dev Manager
+* QA Automation Engineer
+* QA Automation Lead
+
+### Common jobs given to this archetype that actually don't fit them
+
+* Manual QA
+* Business Analyst
+* Technical Business Analyst
+* Technical recruiter
 
 ------
 
 ##  Academic :book:
+
+Academics are those who have studied computer science without actually coding or working in the industry. These individuals may have work experience outside software development. Many recent graduates fit this archetype, as do individuals who got their degree in software engineering or computer science but then moved into a non-technical profession.
 
 ### Traits
 
@@ -174,7 +296,9 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 * Community - :x:
 
 
-### Ideal job titles
+### Jobs that fit this archetype
+
+### Common jobs given to this archetype that actually don't fit them
 
 ------
 
@@ -188,7 +312,9 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 * Community - :heavy_check_mark:
 
 
-### Ideal job titles
+### Jobs that fit this archetype
+
+### Common jobs given to this archetype that actually don't fit them
 
 ------
 
@@ -202,7 +328,9 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 * Community - :x:
 
 
-### Ideal job titles
+### Jobs that fit this archetype
+
+### Common jobs given to this archetype that actually don't fit them
 
 ------
 
@@ -216,7 +344,9 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 * Community - :heavy_check_mark:
 
 
-### Ideal job titles
+### Jobs that fit this archetype
+
+### Common jobs given to this archetype that actually don't fit them
 
 ------
 
@@ -230,11 +360,13 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 * Community - :x:
 
 
-### Ideal job titles
+### Jobs that fit this archetype
+
+### Common jobs given to this archetype that actually don't fit them
 
 ------
 
-##  Seeker :suspect:
+##  Seeker :eyeglasses:
 
 ### Traits
 
@@ -244,7 +376,9 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 * Community - :heavy_check_mark:
 
 
-### Ideal job titles
+### Jobs that fit this archetype
+
+### Common jobs given to this archetype that actually don't fit them
 
 ------
 
@@ -258,11 +392,13 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 * Community - :x:
 
 
-### Ideal job titles
+### Jobs that fit this archetype
+
+### Common jobs given to this archetype that actually don't fit them
 
 ------
 
-##  Star :godmode:
+##  Star :star:
 
 ### Traits
 
@@ -272,4 +408,6 @@ Outsiders have no exposure to the tech world at all. They have never worked in a
 * Community - :heavy_check_mark:
 
 
-### Ideal job titles
+### Jobs that fit this archetype
+
+### Common jobs given to this archetype that actually don't fit them
