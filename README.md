@@ -34,14 +34,20 @@ In the midst of such uncertainty, it is clear to the author that a practical and
   * [Index](#index)
 - [How to use this framework](#how-to-use-this-framework)
   * [1. Understand the framework](#1-understand-the-framework)
-  * [2. Understand the job opening](#2-understand-the-job-opening)
-  * [3. Evaluate the job opening](#3-evaluate-the-job-opening)
-  * [4. Evaluate the candidate](#4-evaluate-the-candidate)
+  * [2. Understand the company and the job description](#2-understand-the-company-and-the-job-description)
+  * [3. Identify the ideal candidate archetype](#3-identify-the-ideal-candidate-archetype)
+  * [4. Evaluate the candidates](#4-evaluate-the-candidates)
+  * [5. Hire a candidate](#5-hire-a-candidate)
+  * [6. Follow through](#6-follow-through)
 - [The traits](#the-traits)
   * [S - Schooling](#s---schooling)
-  * [P - Practice](#p---practice)
-  * [O - Organizational](#o---organizational)
+    + [How to evaluate this trait](#how-to-evaluate-this-trait)
+  * [P - Practice programming](#p---practice-programming)
+    + [How to evaluate this trait](#how-to-evaluate-this-trait-1)
+  * [O - Organizational experience](#o---organizational-experience)
+    + [How to evaluate this trait](#how-to-evaluate-this-trait-2)
   * [C - Community](#c---community)
+    + [How to evaluate this trait](#how-to-evaluate-this-trait-3)
 - [The Archetypes](#the-archetypes)
   * [The Adventurer](#the-adventurer)
     + [Traits](#traits)
@@ -110,7 +116,6 @@ In the midst of such uncertainty, it is clear to the author that a practical and
   * [About](#about)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 ------
 
