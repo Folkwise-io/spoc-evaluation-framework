@@ -55,7 +55,7 @@
     + [Traits](#traits-10)
     + [Jobs that fit this archetype](#jobs-that-fit-this-archetype-10)
     + [Common jobs given to this archetype that actually don't fit them](#common-jobs-given-to-this-archetype-that-actually-don-t-fit-them-10)
-  * [The Natives](#the-natives)
+  * [The Native](#the-native)
     + [Traits](#traits-11)
     + [Jobs that fit this archetype](#jobs-that-fit-this-archetype-11)
     + [Common jobs given to this archetype that actually don't fit them](#common-jobs-given-to-this-archetype-that-actually-don-t-fit-them-11)
@@ -482,9 +482,9 @@ Very often, the academic background of an Organizer is irrelevant. They have und
 
 ------
 
-## The Natives
+## The Native
 
-:pencil:
+:globe_with_meridians:
 
 Natives are at home in the world of software development. They have studied a technical field, possess relevant industry experience, and have researched the industry to a point where they understand trends in technology and understand long-term trends that may affect the business.
 
