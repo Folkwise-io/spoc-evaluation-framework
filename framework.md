@@ -274,6 +274,7 @@ The Self-Taught archetype is one of the best fits for a software development rol
 * Dev Manager
 * QA Automation Engineer
 * QA Automation Lead
+* Software Architect
 
 ### Common jobs given to this archetype that actually don't fit them
 
@@ -286,7 +287,9 @@ The Self-Taught archetype is one of the best fits for a software development rol
 
 ##  Academic :book:
 
-Academics are those who have studied computer science without actually coding or working in the industry. These individuals may have work experience outside software development. Many recent graduates fit this archetype, as do individuals who got their degree in software engineering or computer science but then moved into a non-technical profession.
+Academics are those who have studied computer science without any significant coding experience or experience working in the industry. These individuals may have significant prior work experience outside software development. Many recent graduates fit this archetype, as do individuals who got their degree or diploma in software engineering or computer science but then moved into a non-technical profession.
+
+Academics understand computer science and software engineering to a certain degree, but may not fully understand the psychology of a software developer or the inner workings of a well-run software engineering department. They are good fits for roles that fit their prior work experience or junior-level non-technical roles.
 
 ### Traits
 
@@ -298,12 +301,27 @@ Academics are those who have studied computer science without actually coding or
 
 ### Jobs that fit this archetype
 
+* Junior-level non-technical roles.
+* Manual QA
+* Generalist roles
+* Jobs that match their existing skillset.
+
 ### Common jobs given to this archetype that actually don't fit them
+
+* Junior software developer
+* QA Automation Engineer
+* Intermediate Business Analyst
+* Scrummaster
+* Dev manager
 
 ------
 
 ##  Researcher :telescope:
 
+Similar to the Academic, the Researcher has spent significant amounts of time studying the software development industry. In addition to book knowledge, the Researcher understands the state of the industry from an outsider's perspective. They are frequently able to come up with deep insights about the industry.
+
+Researchers are often computer science or engineering students who are passionate about technology, but not necessarily about coding. Such students can make excellent additions to non-technical departments, and often show curiosity and passion about the industry and its players.
+
 ### Traits
 
 * Schooling - :heavy_check_mark:
@@ -314,28 +332,64 @@ Academics are those who have studied computer science without actually coding or
 
 ### Jobs that fit this archetype
 
-### Common jobs given to this archetype that actually don't fit them
-
-------
-
-##  Analyst :pencil:
-
-### Traits
-
-* Schooling - :heavy_check_mark:
-* Practice - :x:
-* Organizational - :heavy_check_mark:
-* Community - :x:
-
-
-### Jobs that fit this archetype
+* Junior-level non-technical roles.
+* Manual QA
+* Generalist roles
+* Jobs that match their existing skillset.
+* Technical recruiter
+* Technical writer
+* Marketing specialist (targeting developers)
 
 ### Common jobs given to this archetype that actually don't fit them
+
+* Junior software developer
+* QA Automation Engineer
+* Intermediate Business Analyst
+* Scrummaster
+* Dev manager
 
 ------
 
 ##  Organizer :bookmark_tabs:
 
+Organizers are people who help software departments and companies run efficiently and smoothly. Without any special inclination towards coding, these tend to be industry specialists who have studied software development and made it their home.
+
+Very often, the academic background of an Organizer is irrelevant. They have understood the mechanics of information technology to a certain degree, but do not show any inclination towards learning to code or to learning more about development culture.
+
+### Traits
+
+* Schooling - :heavy_check_mark:
+* Practice - :x:
+* Organizational - :heavy_check_mark:
+* Community - :x:
+
+### Jobs that fit this archetype
+
+* Junior-level non-technical roles.
+* Manual QA
+* Generalist roles
+* Jobs that match their existing skillset.
+* Business analyst (non-technical)
+* Project manager
+* Product manager
+
+### Common jobs given to this archetype that actually don't fit them
+
+* Junior software developer
+* QA Automation Engineer
+* Intermediate Business Analyst
+* Dev manager
+* Team lead
+* Scrummaster
+
+------
+
+##  Natives :pencil:
+
+Natives are at home in the world of software development. They have studied a technical field, possess relevant industry experience, and have researched the industry to a point where they understand trends in technology and understand long-term trends that may affect the business.
+
+Natives are non-technical, but are well-suited to leadership positions in software development firms. Since they have the conceptual background to do so, they might be able to lead a software development team in a limited capacity. Many of them do so on a regular basis, to varying degrees of success.
+
 ### Traits
 
 * Schooling - :heavy_check_mark:
@@ -343,15 +397,32 @@ Academics are those who have studied computer science without actually coding or
 * Organizational - :heavy_check_mark:
 * Community - :heavy_check_mark:
 
-
 ### Jobs that fit this archetype
 
+* Product manager
+* Project manager
+* Dev manager
+* Scrummaster
+* Business analyst
+* Marketing manager
+* Non-technical Leadership
+* Jobs that fit their existing skillset
+
 ### Common jobs given to this archetype that actually don't fit them
+
+* Manual QA
+* Team lead
+* Software Developer
+* Software Architect
 
 ------
 
 ##  Fledgling :seedling:
 
+Fledglings have studied software development and have built several projects of varying sizes, maybe as part of their coursework. Many software development bootcamp graduates fall into this category. They may be building their portfolio of projects and working towards their first software development jobs.
+
+Many fledglings eventually land their first software development job, although most take on non-technical or semi-technical roles. Some move out of the software development industry altogether, following their passion or their curiosity to greener pastures.
+
 ### Traits
 
 * Schooling - :heavy_check_mark:
@@ -362,12 +433,27 @@ Academics are those who have studied computer science without actually coding or
 
 ### Jobs that fit this archetype
 
+* Junior software developer
+* QA Automation Engineer
+* Manual QA
+* Jr. Technical Business Analyst
+* Jr. Technical Project Manager
+
 ### Common jobs given to this archetype that actually don't fit them
+
+* Scrummaster
+* Lead QA Automation Engineer
+* Business Analyst
+* Generalist roles
 
 ------
 
 ##  Seeker :eyeglasses:
 
+Seekers are serious software development students who have dedicated large amounts of their personal and professional time to learning as much as possible about software development. They are actively looking for their first software development jobs.Many seekers may accept non-technical roles, but nothing would make them happier than landing a software development role.
+
+Seekers sometimes come from other industries, especially via bootcamps and short diploma programs. They might have something to prove, and as such can make very dedicated and enthusiastic employees.
+
 ### Traits
 
 * Schooling - :heavy_check_mark:
@@ -378,11 +464,25 @@ Academics are those who have studied computer science without actually coding or
 
 ### Jobs that fit this archetype
 
+* Junior software developer
+* QA Automation Engineer
+* Technical business analysis
+
 ### Common jobs given to this archetype that actually don't fit them
+
+* Non-technical roles
+* Generalist roles
+* Project manager
+* Dev manager
+* Product manager
 
 ------
 
 ##  Careerist :office:
+
+The vast majority of software developers are Careerists. They understand the various tools of their specific industry or language, and might even know many popular libraries in their ecosystem, but they have not put in the effort to learn the culture and community surrounding those tools (although they might look up tutorials and examples on a near-daily basis).
+
+Careerists make excellent intermediate developers, QA Engineering professionals and long-term hires. They are professional software developers, but tend not to be overly passionate about the craft of development.
 
 ### Traits
 
@@ -394,11 +494,28 @@ Academics are those who have studied computer science without actually coding or
 
 ### Jobs that fit this archetype
 
+* Intermediate software developer
+* Lead software developer
+* Dev manager
+* QA Automation Engineer
+* Lead QA Automation Engineer
+* Technical product manager
+* Technical business analyst
+
 ### Common jobs given to this archetype that actually don't fit them
+
+* Software Architect
+* Senior software developer
+* Manual QA
+
 
 ------
 
 ##  Star :star:
+
+Stars are enthusiastic software developers who eat, drink, sleep and dream software development. These are career developers who have studied software development professionally, have experience as developers in the software development industry, and often actively partake in the dev community they are a part of.
+
+Some of the best software developers are Stars. They make excellent technical leaders and are an inspiration to younger developers who have the privilege of working with them. They fit well into technical organizations and are capable of building projects from scratch with strong technical foundations. However, they might not fit well into organizations that are primarily non-technical or that do not have a strong software development culture.
 
 ### Traits
 
@@ -410,4 +527,15 @@ Academics are those who have studied computer science without actually coding or
 
 ### Jobs that fit this archetype
 
+* Junior Software Developer
+* Intermediate Software Developer
+* Senior Software Developer
+* Team Lead
+* Dev Manager
+* QA Automation Engineer
+* QA Automation Lead
+* Software Architect
+
 ### Common jobs given to this archetype that actually don't fit them
+
+* Any non-developer roles
